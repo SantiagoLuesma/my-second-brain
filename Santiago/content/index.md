@@ -9,5 +9,5 @@ tags:
 Aquí voy registrando mi camino de conocimiento.
 
 ## Secciones Principales
-*   [[MOC Diseño de Sistemas]]
+*   [[moc-diseno-de-sistemas|MOC Diseño de Sistemas]]
 *   [[MOC Inteligencia Artificial]]

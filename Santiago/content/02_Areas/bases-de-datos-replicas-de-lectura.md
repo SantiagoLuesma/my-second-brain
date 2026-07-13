@@ -22,4 +22,4 @@ Como la replicación toma unos milisegundos, es posible que un usuario guarde un
 ---
 **Conexiones:**
 * Concepto relacionado con: [[Escalabilidad Horizontal vs Vertical]] (porque esto es escalar la BD horizontalmente).
-* Mapa conceptual: [[MOC Diseño de Sistemas]]
+* Mapa conceptual: [[moc-diseno-de-sistemas|MOC Diseño de Sistemas]]

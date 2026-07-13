@@ -20,4 +20,4 @@ Consiste en añadir más servidores a la red para distribuir la carga de trabajo
 
 ---
 **Conexiones:**
-* Volver al [[MOC Diseño de Sistemas]]
+* Volver al [[moc-diseno-de-sistemas|MOC Diseño de Sistemas]]
